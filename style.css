@@ -1,0 +1,29 @@
+#home{
+  background-color: beige;
+  color: black;
+}
+body{
+  background-color: rgb(221, 178, 139);
+  font-family:'Roboto';font-weight:400;
+
+}
+li{
+  display: inline-block;
+  background-color: rgb(189, 190, 108);
+  color: beige;
+  list-style-type: none;
+  text-align: center; 
+  padding: 15px;
+  margin: 10px;
+}
+h2{
+  background-color: rgb(189, 190, 108);
+}
+iframe{
+  border: 2px solid powderblue;
+padding: 30px;
+}
+input:focus{
+background-color: brown;
+color: black;
+}
